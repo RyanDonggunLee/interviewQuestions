@@ -1,9 +1,7 @@
-# Interview Questions 📝
+# Coding Problems 💻
 
-## Category 📒
+## List 📚
 
-- [Algorithm](./Array/TwoSum/TwoSum_Ryan.java) 
-- [Data Structure](./Array/TwoSum/TwoSum_Ryan.java) 
-- [CS Questions](./Array/TwoSum/TwoSum_Ryan.java) 
-- [Coding Problems](./Array/TwoSum/TwoSum_Ryan.java) 
-- [Behavioral Questions](./Array/TwoSum/TwoSum_Ryan.java) 
+| List |Topic                          | Title                | Code | Problem Solving | Difficulty |  Date             |
+| :--: | :--------------------------: | :-----------------: | :------:| :------:  | :---------: |:---------------:|
+| 01 | Array | [TwoSum](https://leetcode.com/problems/two-sum/) |[Test](./Array/TwoSum/TwoSum_Ryan.java) || Easy | N/A|
