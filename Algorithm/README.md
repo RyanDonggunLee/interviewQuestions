@@ -1,9 +1,5 @@
-# Interview Questions 📝
+# Algorithm ⌨️
 
-## Category 📒
-
-- [Algorithm](./Array/TwoSum/TwoSum_Ryan.java) 
-- [Data Structure](./Array/TwoSum/TwoSum_Ryan.java) 
-- [CS Questions](./Array/TwoSum/TwoSum_Ryan.java) 
-- [Coding Problems](./Array/TwoSum/TwoSum_Ryan.java) 
-- [Behavioral Questions](./Array/TwoSum/TwoSum_Ryan.java) 
+- [Dynamic Programming](./Array/TwoSum/TwoSum_Ryan.java) 
+- [Tree Traversal](./Array/TwoSum/TwoSum_Ryan.java) 
+- [Graph Traversal](./Array/TwoSum/TwoSum_Ryan.java)
